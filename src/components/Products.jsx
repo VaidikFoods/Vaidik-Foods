@@ -32,7 +32,13 @@ const Products = ({ products, company }) => {
       setActiveSubcategory(null);
     } else {
       setActiveCategory(cat);
-      setActiveSubcategory(null);
+      // Auto-select first subcategory only for Dehydrated
+      if (cat === 'Dehydrated') {
+        const firstSub = [...new Set(products.filter(p => p.category === 'Dehydrated').map(p => p.subcategory).filter(Boolean))][0];
+        setActiveSubcategory(firstSub || null);
+      } else {
+        setActiveSubcategory(null);
+      }
     }
   };
 
@@ -106,16 +112,18 @@ const Products = ({ products, company }) => {
               exit={{ opacity: 0, y: -10 }}
               className="flex flex-wrap justify-center gap-3 mb-12 motion-gpu"
             >
-              <button
-                onClick={() => setActiveSubcategory(null)}
-                className={`px-6 py-2 rounded-full font-bold transition-all duration-300 border text-[10px] uppercase tracking-[0.15em] ${
-                  activeSubcategory === null 
-                  ? 'bg-primary/10 text-primary border-primary/20' 
-                  : 'bg-gray-50 text-gray-400 border-gray-100 hover:border-primary/20 hover:text-primary'
-                }`}
-              >
-                All {activeCategory}
-              </button>
+              {activeCategory !== 'Dehydrated' && (
+                <button
+                  onClick={() => setActiveSubcategory(null)}
+                  className={`px-6 py-2 rounded-full font-bold transition-all duration-300 border text-[10px] uppercase tracking-[0.15em] ${
+                    activeSubcategory === null 
+                    ? 'bg-primary/10 text-primary border-primary/20' 
+                    : 'bg-gray-50 text-gray-400 border-gray-100 hover:border-primary/20 hover:text-primary'
+                  }`}
+                >
+                  All {activeCategory}
+                </button>
+              )}
               {subcategories.map(sub => (
                 <button
                   key={sub}
