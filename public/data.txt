@@ -1,0 +1,106 @@
+# COMPANY
+[Name] Vaidik Foods
+[Tagline] Pure Natural Simple
+[Phone] +91 9316787170
+[Email] contact.vaidikfoods@gmail.com
+[Address] Mahuva, Gujarat, India
+[About] We make and export high-quality dried vegetables and spices. We follow traditional ways and modern safety rules to bring you the best ingredients from India.
+
+# SELECTION
+[Name] Red Onion
+[Category] Dehydrated
+[Subcategory] Onion
+[Price] 
+[Description] High-quality dehydrated red onion.
+[Image] ./images/red_onion.png
+---
+[Name] White Onion
+[Category] Dehydrated
+[Subcategory] Onion
+[Price] 
+[Description] Premium dehydrated white onion.
+[Image] ./images/white_onion.png
+---
+[Name] Pink Onion
+[Category] Dehydrated
+[Subcategory] Onion
+[Price] 
+[Description] Carefully dehydrated pink onion flakes.
+[Image] ./images/pink_onion.png
+---
+[Name] Garlic Powder
+[Category] Dehydrated
+[Subcategory] Garlic
+[Price] 
+[Description] Fine dehydrated garlic powder.
+[Image] ./images/garlic_powder.png
+---
+[Name] Garlic Flakes
+[Category] Dehydrated
+[Subcategory] Garlic
+[Price] 
+[Description] Dehydrated garlic flakes full of flavor.
+[Image] ./images/garlic_flakes.png
+---
+[Name] Garlic Granules
+[Category] Dehydrated
+[Subcategory] Garlic
+[Price] 
+[Description] Crunchy dehydrated garlic granules.
+[Image] ./images/garlic_granules.png
+---
+[Name] Salem Haldi
+[Category] Premium Spices
+[Subcategory] Haldi
+[Price] 
+[Description] Pure Salem turmeric roots.
+[Image] ./images/salem_haldi.png
+---
+[Name] Salem Haldi Powder
+[Category] Premium Spices
+[Subcategory] Haldi
+[Price] 
+[Description] Freshly ground Salem turmeric powder.
+[Image] ./images/salem_haldi_powder.png
+---
+[Name] Whole Mirch
+[Category] Premium Spices
+[Subcategory] Mirch
+[Price] 
+[Description] High-quality dried whole red chillies.
+[Image] ./images/kashmiri_mirchi.png
+---
+[Name] Mirch Powder
+[Category] Premium Spices
+[Subcategory] Mirch
+[Price] 
+[Description] Vibrant and mildly spicy Kashmiri red chilli powder.
+[Image] ./images/kashmiri_mirchi.png
+---
+[Name] Whole Dhaniya
+[Category] Premium Spices
+[Subcategory] Dhaniya
+[Price] 
+[Description] Aromatic whole coriander seeds.
+[Image] ./images/dhaniya.png
+---
+[Name] Dhaniya Powder
+[Category] Premium Spices
+[Subcategory] Dhaniya
+[Price] 
+[Description] Freshly ground coriander powder.
+[Image] ./images/dhaniya.png
+---
+[Name] Jeeru (EU Grade)
+[Category] Whole spices
+[Subcategory] Jeeru
+[Price] ₹226/kg
+[Description] Premium EU Grade Cumin seeds.
+[Image] ./images/jeeru_eu.png
+---
+[Name] Jeeru (Singapur 99)
+[Category] Whole spices
+[Subcategory] Jeeru
+[Price] ₹206/kg
+[Description] High-quality Singapur 99 Cumin seeds.
+[Image] ./images/jeeru_singapur.png
