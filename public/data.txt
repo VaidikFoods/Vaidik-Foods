@@ -6,7 +6,7 @@
 [Address] Mahuva, Gujarat, India
 [About] We make and export high-quality dried vegetables and spices. We follow traditional ways and modern safety rules to bring you the best ingredients from India.
 
-# SELECTION
+# Products
 [Name] Red Onion
 [Category] Dehydrated
 [Subcategory] Onion
