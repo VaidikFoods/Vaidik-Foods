@@ -20,25 +20,21 @@ Granuals
 [Category] Dehydrated
 [Subcategory] Onion
 [Price] 
-[Description] Powder 
-Flakes
-Granuals
+[Description] Powder
 [Image] ./images/white_onion.png
 ---
 [Name] Pink Onion
 [Category] Dehydrated
 [Subcategory] Onion
 [Price] 
-[Description] POwder 
-Flakes
-Granuals
+[Description] Powder, Flakes, Granuals
 [Image] ./images/pink_onion.png
 ---
 [Name] Garlic Powder
 [Category] Dehydrated
 [Subcategory] Garlic
 [Price] 
-[Description] Fine dehydrated garlic powder.
+[Description] Powder, Flakes, Granuals
 [Image] ./images/garlic_powder.png
 ---
 [Name] Garlic Flakes
@@ -52,7 +48,7 @@ Granuals
 [Category] Dehydrated
 [Subcategory] Garlic
 [Price] 
-[Description] Crunchy dehydrated garlic granules.
+[Description] Powder, Flakes, Granuals
 [Image] ./images/garlic_granules.png
 ---
 [Name] Salem Haldi
