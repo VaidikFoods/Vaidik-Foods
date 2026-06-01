@@ -11,21 +11,27 @@
 [Category] Dehydrated
 [Subcategory] Onion
 [Price] 
-[Description] High-quality dehydrated red onion.
+[Description] Powder
+Flakes
+Granuals
 [Image] ./images/red_onion.png
 ---
 [Name] White Onion
 [Category] Dehydrated
 [Subcategory] Onion
 [Price] 
-[Description] Premium dehydrated white onion.
+[Description] Powder 
+Flakes
+Granuals
 [Image] ./images/white_onion.png
 ---
 [Name] Pink Onion
 [Category] Dehydrated
 [Subcategory] Onion
 [Price] 
-[Description] Carefully dehydrated pink onion flakes.
+[Description] POwder 
+Flakes
+Granuals
 [Image] ./images/pink_onion.png
 ---
 [Name] Garlic Powder
@@ -104,3 +110,7 @@
 [Price] ₹206/kg
 [Description] High-quality Singapur 99 Cumin seeds.
 [Image] ./images/jeeru_singapur.png
+
+
+
+
