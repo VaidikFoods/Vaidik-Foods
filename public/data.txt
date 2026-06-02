@@ -55,7 +55,7 @@ Granuals
 [Category] Premium Spices
 [Subcategory] Haldi
 [Price] 
-[Description] Pure Salem turmeric roots.
+[Description] ./images/salem%20haldi%20photo.png.webp
 [Image] ./images/salem_haldi.png
 ---
 [Name] Salem Haldi Powder
