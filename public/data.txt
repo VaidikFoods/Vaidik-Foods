@@ -11,7 +11,7 @@
 [Category] Dehydrated
 [Subcategory] Onion
 [Price] 
-[Description] Powder
+[Description] Powder, Flakes, Granuals
 Flakes
 Granuals
 [Image] ./images/red_onion.png
@@ -20,7 +20,7 @@ Granuals
 [Category] Dehydrated
 [Subcategory] Onion
 [Price] 
-[Description] Powder
+[Description] Powder, Flakes, Granuals
 [Image] ./images/white_onion.png
 ---
 [Name] Pink Onion
