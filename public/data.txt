@@ -55,14 +55,15 @@ Granuals
 [Category] Premium Spices
 [Subcategory] Haldi
 [Price] 
-[Description] 
-[Image] ./images/salem_haldi.png
+[Description] Pure salem haldi roots.
+[Image] .images/salem haldi photo.png.webp‎
+
 ---
 [Name] Salem Haldi Powder
 [Category] Premium Spices
 [Subcategory] Haldi
 [Price] 
-[Description] Freshly ground Salem turmeric powder.
+[Description] Freshly ground salem turmeric powder.
 [Image] ./images/salem_haldi_powder.png
 ---
 [Name] Whole Mirch
