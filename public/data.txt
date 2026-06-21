@@ -51,6 +51,174 @@ Granuals
 [Description] Powder, Flakes, Granuals
 [Image] ./images/garlic_granules.png
 ---
+[Name] Banan Powder
+[Category] Spray Dried Powder
+[Subcategory] Fruits Powder
+[Price] 
+[Description]
+[Image]
+---
+[Name] Apple Powder
+[Category] Spray Dried Powder
+[Subcategory] Fruits Powder
+[Price] 
+[Description]
+[Image] 
+---
+[Name] Orange Powder
+[Category] Spray Dried Powder
+[Subcategory] Fruits Powder
+[Price] 
+[Description]
+[Image] 
+---
+[Name] Rip Papaya Powder
+[Category] Spray Dried Powder
+[Subcategory] Fruits Powder
+[Price] 
+[Description]
+[Image] 
+---
+[Name]  Strawberry Powder
+[Category] Spray Dried Powder
+[Subcategory] Fruits Powder
+[Price] 
+[Description]
+[Image] 
+---
+[Name] Guava Powder
+[Category] Spray Dried Powder
+[Subcategory] Fruits Powder
+[Price] 
+[Description]
+[Image] 
+---
+[Name] Mango Powder
+[Category] Spray Dried Powder
+[Subcategory] Fruits Powder
+[Price] 
+[Description]
+[Image] 
+---
+[Name] Tamrind Powder
+[Category] Spray Dried Powder
+[Subcategory] Fruits Powder
+[Price] 
+[Description]
+[Image] 
+---
+[Name] Pineapple Powder
+[Category] Spray Dried Powder
+[Subcategory] Fruits Powder
+[Price] 
+[Description]
+[Image] 
+---
+[Name] Jamun Powder
+[Category] Spray Dried Powder
+[Subcategory] Fruits Powder
+[Price] 
+[Description]
+[Image] 
+---
+[Name] Blubbery Powder
+[Category] Spray Dried Powder
+[Subcategory] Fruits Powder
+[Price] 
+[Description]
+[Image] 
+---
+[Name] Mulberry Powder
+[Category] Spray Dried Powder
+[Subcategory] Fruits Powder
+[Price] 
+[Description]
+[Image] 
+---
+[Name] Carnberry Powder
+[Category] Spray Dried Powder
+[Subcategory] Fruits Powder
+[Price] 
+[Description]
+[Image] 
+---
+[Name] Blackberry Powder
+[Category] Spray Dried Powder
+[Subcategory] Fruits Powder
+[Price] 
+[Description]
+[Image] 
+---
+[Name] Amla Powder
+[Category] Spray Dried Powder
+[Subcategory] Fruits Powder
+[Price] 
+[Description]
+[Image] 
+---
+[Name] Dates Powder
+[Category] Spray Dried Powder
+[Subcategory] Fruits Powder
+[Price] 
+[Description]
+[Image] 
+---
+[Name] Beetroot powder
+[Category] Spray Dried Powder
+[Subcategory] Vegetable Powder
+[Price] 
+[Description]
+[Image] 
+---
+[Name] Spinach powder
+[Category] Spray Dried Powder
+[Subcategory] Vegetable Powder
+[Price] 
+[Description]
+[Image] 
+---
+[Name] Carrot powder
+[Category] Spray Dried Powder
+[Subcategory] Vegetable Powder
+[Price] 
+[Description]
+[Image] 
+---
+[Name] Green Chilly powder
+[Category] Spray Dried Powder
+[Subcategory] Vegetable Powder
+[Price] 
+[Description]
+[Image] 
+---
+[Name] Pumpkin powder
+[Category] Spray Dried Powder
+[Subcategory] Vegetable Powder
+[Price] 
+[Description]
+[Image] 
+---
+[Name] Tomato powder
+[Category] Spray Dried Powder
+[Subcategory] Vegetable Powder
+[Price] 
+[Description]
+[Image] 
+---
+[Name] Lemon powder
+[Category] Spray Dried Powder
+[Subcategory] Vegetable Powder
+[Price] 
+[Description]
+[Image] 
+---
+[Name] Ginger powder
+[Category] Spray Dried Powder
+[Subcategory] Vegetable Powder
+[Price] 
+[Description]
+[Image] 
+---
 [Name] Salem Haldi
 [Category] Premium Spices
 [Subcategory] Haldi
