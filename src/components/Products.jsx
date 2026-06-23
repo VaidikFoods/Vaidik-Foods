@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { ArrowUpRight, ShoppingBag, MousePointerClick } from 'lucide-react';
+import { ArrowUpRight, ShoppingBag, MousePointerClick, IndianRupee } from 'lucide-react';
 
 const WhatsAppIcon = ({ className }) => (
   <svg 
@@ -32,13 +32,7 @@ const Products = ({ products, company }) => {
       setActiveSubcategory(null);
     } else {
       setActiveCategory(cat);
-      // Auto-select first subcategory only for Dehydrated
-      if (cat === 'Dehydrated') {
-        const firstSub = [...new Set(products.filter(p => p.category === 'Dehydrated').map(p => p.subcategory).filter(Boolean))][0];
-        setActiveSubcategory(firstSub || null);
-      } else {
-        setActiveSubcategory(null);
-      }
+      setActiveSubcategory(null);
     }
   };
 
@@ -112,18 +106,16 @@ const Products = ({ products, company }) => {
               exit={{ opacity: 0, y: -10 }}
               className="flex flex-wrap justify-center gap-3 mb-12 motion-gpu"
             >
-              {activeCategory !== 'Dehydrated' && (
-                <button
-                  onClick={() => setActiveSubcategory(null)}
-                  className={`px-6 py-2 rounded-full font-bold transition-all duration-300 border text-[10px] uppercase tracking-[0.15em] ${
-                    activeSubcategory === null 
-                    ? 'bg-primary/10 text-primary border-primary/20' 
-                    : 'bg-gray-50 text-gray-400 border-gray-100 hover:border-primary/20 hover:text-primary'
-                  }`}
-                >
-                  All {activeCategory}
-                </button>
-              )}
+              <button
+                onClick={() => setActiveSubcategory(null)}
+                className={`px-6 py-2 rounded-full font-bold transition-all duration-300 border text-[10px] uppercase tracking-[0.15em] ${
+                  activeSubcategory === null 
+                  ? 'bg-primary/10 text-primary border-primary/20' 
+                  : 'bg-gray-50 text-gray-400 border-gray-100 hover:border-primary/20 hover:text-primary'
+                }`}
+              >
+                All {activeCategory}
+              </button>
               {subcategories.map(sub => (
                 <button
                   key={sub}
@@ -170,12 +162,20 @@ const Products = ({ products, company }) => {
                   </div>
                   
                   <div className="p-10 flex flex-col flex-grow">
-                    <div className="flex justify-between items-start mb-4">
+                    <div className="flex justify-between items-start mb-2">
                       <h4 className="text-2xl font-bold text-gray-900 group-hover:text-primary transition-colors pr-4">
                         {product.name}
                       </h4>
                       <ArrowUpRight className="text-gray-300 group-hover:text-primary transition-colors shrink-0" />
                     </div>
+
+                    {/* NEW PRICE BLOCK ADDED HERE */}
+                    {product.price && product.price.trim() !== '' && (
+                      <div className="flex items-center gap-1.5 mb-4 text-primary font-bold text-lg bg-primary/5 w-fit px-3 py-1 rounded-lg">
+                        <span>{product.price}</span>
+                      </div>
+                    )}
+
                     <p className="text-gray-500 mb-8 flex-grow leading-relaxed">
                       {product.description}
                     </p>
