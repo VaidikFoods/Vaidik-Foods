@@ -10,7 +10,7 @@
 [Name] Red Onion
 [Category] Dehydrated
 [Subcategory] Onion
-[Price] 
+[Price]
 [Description] Powder, Flakes, Granuals
 Flakes
 Granuals
@@ -19,246 +19,294 @@ Granuals
 [Name] White Onion
 [Category] Dehydrated
 [Subcategory] Onion
-[Price] 
+[Price]
 [Description] Powder, Flakes, Granuals
 [Image] ./images/white_onion.png
 ---
 [Name] Pink Onion
 [Category] Dehydrated
 [Subcategory] Onion
-[Price] 
+[Price]
 [Description] Powder, Flakes, Granuals
 [Image] ./images/pink_onion.png
 ---
 [Name] Garlic Powder
 [Category] Dehydrated
 [Subcategory] Garlic
-[Price] 
+[Price] ₹209/kg
 [Description] Powder, Flakes, Granuals
 [Image] ./images/garlic_powder.png
 ---
 [Name] Garlic Flakes
 [Category] Dehydrated
 [Subcategory] Garlic
-[Price] 
+[Price] ₹209/kg
 [Description] Dehydrated garlic flakes full of flavor.
 [Image] ./images/garlic_flakes.png
 ---
 [Name] Garlic Granules
 [Category] Dehydrated
 [Subcategory] Garlic
-[Price] 
+[Price] ₹209/kg
 [Description] Powder, Flakes, Granuals
 [Image] ./images/garlic_granules.png
 ---
 [Name] Banan Powder
 [Category] Spray Dried Powder
 [Subcategory] Fruits Powder
-[Price] 
+[Price] ₹286/kg
 [Description]
 [Image]
 ---
 [Name] Apple Powder
 [Category] Spray Dried Powder
 [Subcategory] Fruits Powder
-[Price] 
+[Price] ₹286/kg
 [Description]
-[Image] 
+[Image]
 ---
 [Name] Orange Powder
 [Category] Spray Dried Powder
 [Subcategory] Fruits Powder
-[Price] 
+[Price] ₹297/kg
 [Description]
-[Image] 
+[Image]
 ---
 [Name] Rip Papaya Powder
 [Category] Spray Dried Powder
 [Subcategory] Fruits Powder
-[Price] 
+[Price] ₹330/kg
 [Description]
-[Image] 
+[Image]
 ---
 [Name]  Strawberry Powder
 [Category] Spray Dried Powder
 [Subcategory] Fruits Powder
-[Price] 330 
+[Price] ₹330/kg
 [Description]
-[Image] 
+[Image]
 ---
 [Name] Guava Powder
 [Category] Spray Dried Powder
 [Subcategory] Fruits Powder
-[Price] 
+[Price] ₹297/kg
 [Description]
-[Image] 
+[Image]
 ---
 [Name] Mango Powder
 [Category] Spray Dried Powder
 [Subcategory] Fruits Powder
-[Price] 
+[Price] ₹297/kg
 [Description]
-[Image] 
+[Image]
 ---
 [Name] Tamrind Powder
 [Category] Spray Dried Powder
 [Subcategory] Fruits Powder
-[Price] 
+[Price] ₹187/kg - ₹319/kg
 [Description]
-[Image] 
+[Image]
 ---
 [Name] Pineapple Powder
 [Category] Spray Dried Powder
 [Subcategory] Fruits Powder
-[Price] 
+[Price] ₹297/kg
 [Description]
-[Image] 
+[Image]
 ---
 [Name] Jamun Powder
 [Category] Spray Dried Powder
 [Subcategory] Fruits Powder
-[Price] 
+[Price] ₹319/kg
 [Description]
-[Image] 
+[Image]
 ---
 [Name] Blubbery Powder
 [Category] Spray Dried Powder
 [Subcategory] Fruits Powder
-[Price] 
+[Price] ₹690/kg
 [Description]
-[Image] 
+[Image]
 ---
 [Name] Mulberry Powder
 [Category] Spray Dried Powder
 [Subcategory] Fruits Powder
-[Price] 
+[Price] ₹720/kg
 [Description]
-[Image] 
+[Image]
 ---
 [Name] Carnberry Powder
 [Category] Spray Dried Powder
 [Subcategory] Fruits Powder
-[Price] 
+[Price] ₹765/kg
 [Description]
-[Image] 
+[Image]
 ---
 [Name] Blackberry Powder
 [Category] Spray Dried Powder
 [Subcategory] Fruits Powder
-[Price] 
+[Price] ₹720/kg
 [Description]
-[Image] 
+[Image]
+---
+[Name] Raspberry Powder
+[Category] Spray Dried Powder
+[Subcategory] Fruits Powder
+[Price] ₹740/kg
+[Description]
+[Image]
+---
+[Name] Watermelon Powder
+[Category] Spray Dried Powder
+[Subcategory] Fruits Powder
+[Price] ₹300/kg
+[Description]
+[Image]
+---
+[Name] Seabuckthorn Powder
+[Category] Spray Dried Powder
+[Subcategory] Fruits Powder
+[Price] ₹1100/kg
+[Description]
+[Image]
+---
+[Name] Pomegranate Powder
+[Category] Spray Dried Powder
+[Subcategory] Fruits Powder
+[Price] ₹330/kg
+[Description]
+[Image]
 ---
 [Name] Amla Powder
 [Category] Spray Dried Powder
 [Subcategory] Fruits Powder
-[Price] 
+[Price] ₹715/kg
 [Description]
-[Image] 
+[Image]
 ---
 [Name] Dates Powder
 [Category] Spray Dried Powder
 [Subcategory] Fruits Powder
-[Price] 
+[Price] ₹286/kg
 [Description]
-[Image] 
+[Image]
 ---
 [Name] Beetroot powder
 [Category] Spray Dried Powder
 [Subcategory] Vegetable Powder
-[Price] 
+[Price] ₹286/kg - ₹330/kg
 [Description]
-[Image] 
+[Image]
 ---
 [Name] Spinach powder
 [Category] Spray Dried Powder
 [Subcategory] Vegetable Powder
-[Price] 
+[Price] ₹330/kg
 [Description]
-[Image] 
+[Image]
 ---
 [Name] Carrot powder
 [Category] Spray Dried Powder
 [Subcategory] Vegetable Powder
-[Price] 
+[Price] ₹275/kg
 [Description]
-[Image] 
+[Image]
 ---
 [Name] Green Chilly powder
 [Category] Spray Dried Powder
 [Subcategory] Vegetable Powder
-[Price] 
+[Price] ₹230/kg
 [Description]
-[Image] 
+[Image]
 ---
 [Name] Pumpkin powder
 [Category] Spray Dried Powder
 [Subcategory] Vegetable Powder
-[Price] 
+[Price] ₹286/kg
 [Description]
-[Image] 
+[Image]
 ---
 [Name] Tomato powder
 [Category] Spray Dried Powder
 [Subcategory] Vegetable Powder
-[Price] 
+[Price] ₹154/kg
 [Description]
-[Image] 
+[Image]
 ---
 [Name] Lemon powder
 [Category] Spray Dried Powder
 [Subcategory] Vegetable Powder
-[Price] 
+[Price] ₹143/kg - ₹176/kg
 [Description]
-[Image] 
+[Image]
 ---
 [Name] Ginger powder
 [Category] Spray Dried Powder
 [Subcategory] Vegetable Powder
-[Price] 
+[Price] ₹231/kg
 [Description]
-[Image] 
+[Image]
+---
+[Name] Mushroom Powder
+[Category] Spray Dried Powder
+[Subcategory] Vegetable Powder
+[Price] ₹550/kg
+[Description]
+[Image]
+---
+[Name] Apple Cider Vinegar Powder
+[Category] Spray Dried Powder
+[Subcategory] Other
+[Price] ₹517/kg
+[Description]
+[Image]
+---
+[Name] Caramel Type-4
+[Category] Spray Dried Powder
+[Subcategory] Other
+[Price] ₹198/kg
+[Description]
+[Image]
 ---
 [Name] Salem Haldi
 [Category] Premium Spices
 [Subcategory] Haldi
-[Price] 
+[Price]
 [Description] Pure salem haldi roots.
 [Image] .images/salem haldi photo.png.webp‎
-
 ---
 [Name] Salem Haldi Powder
 [Category] Premium Spices
 [Subcategory] Haldi
-[Price] 
+[Price]
 [Description] Freshly ground salem turmeric powder.
 [Image] ./images/salem_haldi_powder.png
 ---
 [Name] Whole Mirch
 [Category] Premium Spices
 [Subcategory] Mirch
-[Price] 
+[Price]
 [Description] High-quality dried whole red chillies.
 [Image] ./images/kashmiri_mirchi.png
 ---
 [Name] Mirch Powder
 [Category] Premium Spices
 [Subcategory] Mirch
-[Price] 
+[Price]
 [Description] Vibrant and mildly spicy Kashmiri red chilli powder.
 [Image] ./images/kashmiri_mirchi.png
 ---
 [Name] Whole Dhaniya
 [Category] Premium Spices
 [Subcategory] Dhaniya
-[Price] 
+[Price]
 [Description] Aromatic whole coriander seeds.
 [Image] ./images/dhaniya.png
 ---
 [Name] Dhaniya Powder
 [Category] Premium Spices
 [Subcategory] Dhaniya
-[Price] 
+[Price]
 [Description] Freshly ground coriander powder.
 [Image] ./images/dhaniya.png
 ---
@@ -275,7 +323,3 @@ Granuals
 [Price] ₹206/kg
 [Description] High-quality Singapur 99 Cumin seeds.
 [Image] ./images/jeeru_singapur.png
-
-
-
-
