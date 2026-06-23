@@ -82,7 +82,7 @@ Granuals
 [Name]  Strawberry Powder
 [Category] Spray Dried Powder
 [Subcategory] Fruits Powder
-[Price] 
+[Price] 330 
 [Description]
 [Image] 
 ---
